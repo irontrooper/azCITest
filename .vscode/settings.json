@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5da8a558-7246-4cda-8e48-9b6c143dd3f4/resourceGroups/AZ-03.05/providers/Microsoft.Web/sites/bdwebapi",
+    "appService.deploySubpath": "."
+}
